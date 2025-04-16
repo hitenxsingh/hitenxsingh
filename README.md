@@ -9,7 +9,7 @@ Hey there! Welcome to my GitHub! I'm a **Full Stack Developer** with a knack for
 
 ## 💼 Experience
 ### **Full Stack Intern @ TechCurators**  
-*Dec 2024 - Apr 2025 | Remote*  
+*Dec 2024 - Apr 2025 | onSite*  
 - 🚀 Slashed page load times by **25%** through code-splitting and optimized frontend components.  
 - 🌟 Led **TOSS**, a SaaS platform, driving **30% higher user engagement** with innovative features.  
 - 🛠️ Built a **Next.js frontend** on **AWS Amplify** (**40% faster load times**) and a **Node.js backend** on **AWS EC2** (**99.9% uptime**).  
